@@ -1,0 +1,8 @@
+firmware_files/BumbleBee/BumbleBee_FW_v6.6.pmk
+firmware_files/BumbleBee/BumbleBee_FW_v6.7.pmk
+firmware_files/BumbleBee/BumbleBee_FW_v6.8.pmk
+firmware_files/FireFly/Interface Box/PMK_Firefly_IB_APP44.pmk
+firmware_files/FireFly/Interface Box/PMK_Firefly_IB_APP45.pmk
+firmware_files/FireFly/Interface Box/PMK_Firefly_IB_APP47.pmk
+firmware_files/FireFly/Interface Box/PMK_Firefly_IB_APP48.pmk
+firmware_files/FireFly/Interface Box/PMK_Firefly_IB_APP700.pmk
