@@ -3,3 +3,5 @@ firmware_files/BumbleBee/BumbleBee_FW_v6.7.pmk
 firmware_files/BumbleBee/BumbleBee_FW_v6.8.pmk
 firmware_files/FireFly/FireFly_FW_v1.0/PMK_Firefly_Primary_v0.0.48.pmk
 firmware_files/FireFly/FireFly_FW_v1.0/PMK_Firefly_Secondary_v0.0.31.pmk
+firmware_files/FireFly/FireFly_FW_v1.1/PMK_Firefly_Primary_v0.0.49.pmk
+firmware_files/FireFly/FireFly_FW_v1.1/PMK_Firefly_Secondary_v0.0.31.pmk
