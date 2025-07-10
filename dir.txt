@@ -13,3 +13,5 @@ firmware_files/FireFly/FireFly_FW_v1.3/PMK_Firefly_Primary_v0.0.48.pmk
 firmware_files/FireFly/FireFly_FW_v1.3/PMK_Firefly_Secondary_v0.0.33.pmk
 firmware_files/FireFly/FireFly_FW_v1.4/PMK_Firefly_Primary_v0.0.48.pmk
 firmware_files/FireFly/FireFly_FW_v1.4/PMK_Firefly_Secondary_v1.0.0.pmk
+firmware_files/FireFly/FireFly_FW_v1.5/PMK_Firefly_Primary_v0.0.48.pmk
+firmware_files/FireFly/FireFly_FW_v1.5/PMK_Firefly_Secondary_v1.0.0.pmk
